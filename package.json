@@ -1,0 +1,29 @@
+{
+  "name": "oriql-example",
+  "version": "1.0.0",
+  "description": "An example using Oriql",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server": "^2.6.9",
+    "axios": "^0.19.0",
+    "oriql": "0.1.0-alpha.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelcacciatore/oriql-example.git"
+  },
+  "keywords": [
+    "oriql"
+  ],
+  "author": "Michael Cacciatore <mcacciatore116@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelcacciatore/oriql-example/issues"
+  },
+  "homepage": "https://github.com/michaelcacciatore/oriql-example#readme"
+}

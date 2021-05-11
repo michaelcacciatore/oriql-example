@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "apollo-server": "^2.14.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "oriql": "0.1.0-alpha.4"
   },
   "devDependencies": {},
